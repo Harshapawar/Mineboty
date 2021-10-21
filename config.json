@@ -1,12 +1,12 @@
 {
     "user":{
-        "username":"your_bot_user_name", // keep your bot user name here
+        "username":"lol", // keep your bot user name here
         "pass":""
     },
 
     "server":{
-        "address":"here", //your server ip
-        "port": here // keep your server port if you have
+        "address":"here", survivalbutmods.aternos.me
+        "port": 39959
     },
 
     "keyword":{
